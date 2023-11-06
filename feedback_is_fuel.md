@@ -1,4 +1,4 @@
-# Giving Feedback Course
+# Feedback is fuel
 
 This course is about providing effective feedback using the SBI model and different types of feedbacks.
 
