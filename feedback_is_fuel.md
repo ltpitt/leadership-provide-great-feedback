@@ -57,3 +57,20 @@ Reduction is about suggesting someone to do less of a certain behavior.
 
 ### Inclusion
 Inclusion is about suggesting someone to involve others or consider other perspectives. 
+
+## When to Provide Feedback
+
+Feedback should be provided in a timely and considerate manner. Here are some guidelines:
+
+### Ideally 24-48 hours
+Feedback should ideally be given within **24-48 hours** of the observed behavior. This ensures that the details are fresh in everyone's mind.
+
+### On a regular basis
+Feedback should be provided **on a regular basis**. Regular feedback can help individuals continuously improve and feel valued.
+
+### Prepare enough time to discuss
+Ensure you have **enough time to discuss** the feedback. Rushed feedback sessions might not be as effective.
+
+### Consider personal circumstances and impact on performance
+Always **consider personal circumstances** and how they might be impacting an individual's performance. Empathy is key in providing effective feedback.
+
