@@ -74,3 +74,18 @@ Ensure you have **enough time to discuss** the feedback. Rushed feedback session
 ### Consider personal circumstances and impact on performance
 Always **consider personal circumstances** and how they might be impacting an individual's performance. Empathy is key in providing effective feedback.
 
+## How to Provide Feedback
+
+Providing feedback effectively is a skill that can be learned and improved. Here are some guidelines:
+
+### Come prepared
+Before giving feedback, **come prepared**. Understand the situation, the behavior you observed, and its impact. 
+
+### Use SBI
+Use the **SBI (Situation, Behavior, Impact) model**. This model helps structure your feedback in a clear and concise way.
+
+### Own the feedback
+**Own the feedback**. Use "I" statements to express your observations and feelings. This helps to avoid blaming and to keep the conversation constructive.
+
+### Check for understanding and make plans together
+After giving feedback, **check for understanding** and **make plans together**. This ensures that the person receiving feedback understands it and that you both agree on next steps.
