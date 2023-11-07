@@ -1,91 +1,79 @@
-# Feedback is fuel
+# Feedback is Fuel: A Comprehensive Guide
 
-This course is about providing effective feedback using the SBI model and different types of feedbacks.
+Feedback is a crucial part of personal and professional development. This guide provides a comprehensive overview of effective feedback strategies using the SBI model and different types of feedback.
 
+## Table of Contents
+1. [Steps to Provide Feedback](#steps-to-provide-feedback)
+2. SBI Model
+3. Types of Feedback
+    - Affirming Feedbacks
+    - Constructive Feedbacks
+4. When to Provide Feedback
+5. How to Provide Feedback
+
+<a name="steps-to-provide-feedback"></a>
 ## Steps to Provide Feedback
 
-1. **Ask Permission**: Before giving feedback, it's respectful to ask the person if they're open to it.
-2. **Set the Context**: Explain the situation where you observed the behavior.
-3. **Identify the SBI**: Describe the specific behavior and its impact.
-4. **Ask for Reactions**: After sharing your feedback, ask the person for their perspective.
-5. **Agree on Changes**: Discuss and agree on potential improvements.
+Providing feedback involves a series of steps to ensure it is effective and well-received:
 
+1. **Ask Permission**: Respect the recipient's openness to feedback.
+2. **Set the Context**: Provide a clear situation where the behavior was observed.
+3. **Identify the SBI**: Describe the specific behavior and its impact.
+4. **Ask for Reactions**: Encourage a two-way conversation.
+5. **Agree on Changes**: Collaborate on potential improvements.
+
+<a name="sbi-model"></a>
 ## SBI Model
 
-The SBI (Situation, Behavior, Impact) model is a framework for providing feedback.
+The SBI (Situation, Behavior, Impact) model is a widely used framework for providing feedback:
 
-### Situation
-The situation is the context or the specific event when the behavior occurred. 
+- **Situation**: The context or specific event when the behavior occurred.
+- **Behaviour**: The actions observed.
+- **Impact**: The effects or consequences of the behavior.
 
-### Behaviour
-Behaviour refers to the actions you observed. 
+<a name="types-of-feedback"></a>
+## Types of Feedback
 
-### Impact
-Impact describes the effects of the behavior. 
+Feedback can be categorized into two main types: Affirming and Constructive.
 
-## Affirming Feedbacks
+<a name="affirming-feedbacks"></a>
+### Affirming Feedbacks
 
-Affirming feedbacks are positive reinforcements that acknowledge good performance.
+Affirming feedbacks are positive reinforcements that acknowledge good performance:
 
-### Recognition
-Recognition is about acknowledging someone's good work. 
+- **Recognition**: Acknowledge good work.
+- **Encouragement**: Motivate continued good work.
+- **Maintenance**: Suggest maintaining current performance level.
+- **Elevation**: Encourage aiming for higher performance levels.
+- **Continuation**: Suggest continuation of good work.
 
-### Encouragement
-Encouragement is about motivating someone to continue doing good work. 
+<a name="constructive-feedbacks"></a>
+### Constructive Feedbacks
 
-### Maintenance
-Maintenance is about suggesting someone to keep their current level of performance. 
+Constructive feedbacks are suggestions for improvement:
 
-### Elevation
-Elevation is about suggesting someone to aim for higher levels of performance. 
+- **Adjustment**: Suggest a change in behavior.
+- **Improvement**: Suggest how performance can be enhanced.
+- **Reduction**: Suggest doing less of a certain behavior.
+- **Inclusion**: Suggest involving others or considering other perspectives.
 
-### Continuation
-Continuation is about suggesting someone to continue their good work. 
-
-## Constructive Feedbacks
-
-Constructive feedbacks are suggestions for improvement.
-
-### Adjustment
-Adjustment is about suggesting a change in someone's behavior. 
-
-### Improvement
-Improvement is about suggesting how someone can enhance their performance. 
-
-### Reduction
-Reduction is about suggesting someone to do less of a certain behavior. 
-
-### Inclusion
-Inclusion is about suggesting someone to involve others or consider other perspectives. 
-
+<a name="when-to-provide-feedback"></a>
 ## When to Provide Feedback
 
-Feedback should be provided in a timely and considerate manner. Here are some guidelines:
+Timing is crucial when providing feedback:
 
-### Ideally 24-48 hours
-Feedback should ideally be given within **24-48 hours** of the observed behavior. This ensures that the details are fresh in everyone's mind.
+- **Ideally 24-48 hours**: Give feedback within a day or two of the observed behavior.
+- **On a regular basis**: Provide feedback regularly to aid continuous improvement.
+- **Prepare enough time to discuss**: Ensure discussions aren't rushed.
+- **Consider personal circumstances**: Be empathetic and considerate of personal circumstances that may impact performance.
 
-### On a regular basis
-Feedback should be provided **on a regular basis**. Regular feedback can help individuals continuously improve and feel valued.
-
-### Prepare enough time to discuss
-Ensure you have **enough time to discuss** the feedback. Rushed feedback sessions might not be as effective.
-
-### Consider personal circumstances and impact on performance
-Always **consider personal circumstances** and how they might be impacting an individual's performance. Empathy is key in providing effective feedback.
-
+<a name="how-to-provide-feedback"></a>
 ## How to Provide Feedback
 
-Providing feedback effectively is a skill that can be learned and improved. Here are some guidelines:
+Effective feedback requires preparation and understanding:
 
-### Come prepared
-Before giving feedback, **come prepared**. Understand the situation, the behavior you observed, and its impact. 
-
-### Use SBI
-Use the **SBI (Situation, Behavior, Impact) model**. This model helps structure your feedback in a clear and concise way.
-
-### Own the feedback
-**Own the feedback**. Use "I" statements to express your observations and feelings. This helps to avoid blaming and to keep the conversation constructive.
-
-### Check for understanding and make plans together
-After giving feedback, **check for understanding** and **make plans together**. This ensures that the person receiving feedback understands it and that you both agree on next steps.
+- **Come prepared**: Understand the situation, observed behavior, and its impact.
+- **Use SBI**: Use the SBI model to structure feedback.
+- **Own the feedback**: Use "I" statements to express observations and feelings.
+- **Check for understanding**: Ensure the recipient understands the feedback.
+- **Make plans together**: Collaborate on next steps.
