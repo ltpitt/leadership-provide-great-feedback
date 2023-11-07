@@ -4,12 +4,12 @@ Feedback is a crucial part of personal and professional development. This guide 
 
 ## Table of Contents
 1. [Steps to Provide Feedback](#steps-to-provide-feedback)
-2. SBI Model
-3. Types of Feedback
-    - Affirming Feedbacks
-    - Constructive Feedbacks
-4. When to Provide Feedback
-5. How to Provide Feedback
+2. [SBI Model](#sbi-model)
+3. [Types of Feedback](#types-of-feedback)
+    - [Affirming Feedbacks](#affirming-feedbacks)
+    - [Constructive Feedbacks](#constructive-feedbacks)
+4. [When to Provide Feedback](#when-to-provide-feedback)
+5. [How to Provide Feedback](#how-to-provide-feedback)
 
 <a name="steps-to-provide-feedback"></a>
 ## Steps to Provide Feedback
